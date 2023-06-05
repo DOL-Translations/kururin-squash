@@ -1,0 +1,31 @@
+# Location of 2D textures
+
+Known files:
+- ano00.txg (complete)
+    - In-game text
+- ch_c_resalt.txg (complete)
+    - Results (Cleared)
+- ch_f_resalt.txg (complete)
+    - Results (Failed)
+- chosen.txg
+    - Time Trials
+- fileselect.txg (complete)
+    - Single Player
+- itemlist.txg (complete)
+    - Inventory
+- option.txg
+    - Options
+- pause.txg
+    - Pause Menu
+- resalt.txg (complete)
+    -  Results
+- top.txg (complete)
+    - Title Screen menu
+- vs_menu.txg 
+    - Multiplayer menu
+- vs_result.txg
+    - VS Mode Results
+- w_demo.txg
+    - World names
+- w_map.txg (complete)
+    - Level select
