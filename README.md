@@ -1,6 +1,6 @@
-# Giftpia
-- File: `Donkey Konga 3 [J].iso`
-- Hash: `877022ACC53A3EB97A4290C45F69BE345DEFA0E0`
+# Kururin Squash
+- File: `Kururin Squash! [J].iso`
+- Hash: `F1E5E50751CEE4FA654182E0904F7F6EF721E5CC`
 
 
 ## Compiling
