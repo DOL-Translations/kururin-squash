@@ -21,6 +21,8 @@ Known files:
     -  Results
 - top.txg (complete)
     - Title Screen menu
+- vs2d.txg
+    - In-game multiplayer text
 - vs_menu.txg 
     - Multiplayer menu
 - vs_result.txg
