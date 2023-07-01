@@ -1,4 +1,4 @@
-「Heart-up」（1 use）
+HEART-UP (1 use)
 Increases the number of hearts to
 five for a better piece of mind.
 ＩＴＥＭ＿Ｉ０１
@@ -13,490 +13,490 @@ five for a better piece of mind.
 ＩＴＥＭ＿Ｉ０４
 ＩＴＥＭ＿Ｉ０４
 ＩＴＥＭ＿Ｉ０４
-「Amazing heart」（１use）
+AMAZING HEART (1 use)
 Start from the Respawn Area even
 if you lose all of your hearts!
 ＩＴＥＭ＿Ｉ０６
 ＩＴＥＭ＿Ｉ０６
 ＩＴＥＭ＿Ｉ０６
-「Classic Helirin」
+CLASSIC HELIRIN
 The common Heririn
 unlocked by default.
-「Colorful Helirin」
+COLORFUL HELIRIN
 Looks like a muffler
 and is a great value.
-「Blue Gradient Helirin」
+BLUE GRADIANT HELIRIN
 Recommended for calm,
 refreshed indiviuals.
-「Orange Gradient Helirin」
+ORANGE GRADIANT HELIRIN
 This Helirin is themed with
 bright and stunning colors.
-「Green Gradient Helirin」
+GREEN GRADIANT HELIRIN
 Refresh your body and
 soul with shades of green.
-「Block Helirin」
+BLOCK HELIRIN
 Redesigned using a cute
 pink-based shade.
-「Chocolate Helirin」
+CHOCOLATE HELIRIN
 A Helirin made from a chocolate bar.
 Tastes like very sweet milk chocolate.
-「Snowman Helirin」
+SNOWMAN HELIRIN
 This unique snowman
 can never melt.
-「Tank Helirin」
+TANK HELIRIN
 Even though it's a tank, it can fly!
 Made of 76mm boxwood.
-「Hot Chocolate Helirin」
+HOT CHOCOLATE HELIRIN
 Helirin that warms you up
 just by looking at it!
-「Rainbow Helirin」
+RAINBOW HELIRIN
 Helirin sporting a bright
 rainbow of colors.
-「Sakura Helirin」
+SAKURA HELIRIN
 Pink Helirin popular
 with the girls.
-「Matcha Sakura Helirin」
+MATCHA SAKURA HELIRIN
 Popular with relaxed girls.
 
-「Wave Helirin」
+WAVE HELIRIN
 Japanese-style Helirin
 with waves painted on the wings.
-「Mushroom Helirin」
+MUSHROOM HELIRIN
 You can't eat these mushrooms!
 They are only part of the design.
-「Sky Helirin」
+SKY HELIRIN
 This Helirin is fun to
 ride on a sunny day.
-「Planet Helirin」
+PLANET HELIRIN
 You can see the wonders of the
 universe through its wings.
-「Black Helirin」
+BLACK HELIRIN
 A dark Helirin that has
 a glowing yellow star.
-「Aqua Helirin」
+AQUA HELIRIN
 Cool design featuring
 blue dots.
-「Camo Helirin」
+CAMO HELIRIN
 Makes it easy to
 hide in the woods.
-「Cookie Helirin」
+COOKIE HELIRIN
 Topped with delicious
 icing and sprinkles.
-「Strawberry Helirin」
+STRAWBERRY HELIRIN
 A delicious mix of
 strawberries and milk.
-「British Helirin」
+BRITISH HELIRIN
 I'm a British pilot!
 
-「OneStar Helirin」
+ONESTAR HELIRIN
 This star is a
 very popular symbol.
-「Watermelon Helirin」
+WATERMELON HELIRIN
 Add salt to make this
 summer treat sweeter.
-「Bee Helirin」
+BEE HELIRIN
 A strange bee that can't
 fly without rotating.
-「Paisley Helirin」
+PAISLEY HELIRIN
 An exotic design.
 
-「Aroma Helirin」
+AROMA HELIRIN
 A nice smelling 
 Flower Helirin.
-「Nintendo Helirin」
+NINTENDO HELIRIN
 Mario's emblem
 rides on the wing.
-「Slicer Helirin」
+SLICER HELIRIN
 This Super Helirin has very
 shiny and powerful blades.
-「Tie-dye Helirin」
-The color mesmerizes
-the viewer.
-「Candy Helirin」
-I'm not sure how it tastes
+TIE-DYE HELIRIN
+The colors mesmerize
+the beholder.
+CANDY HELIRIN
+Not sure how it tastes
 because I haven't tried it yet.
-「Kamasley Helirin」
+KAMASLEY HELIRIN
 There are no blind spots with
-these sickles on its wing and head!
-「Snake Helirin」
+the sickles on its wing and head!
+SNAKE HELIRIN
 Helirin made of
 snake leather.
-「Leopard Helirin」
+LEOPARD HELIRIN
 This leopard-like
 Helirin makes me feel rich.
-「Zebra Helirin」
+ZEBRA HELIRIN
 The two-tone color makes this
-Helirin feel even more like a zebra.
-「Tiger Helirin」
+Helirin look even more like a zebra.
+TIGER HELIRIN
 This Helirin looks as
 strong as a tiger.
-「Holstein Helirin」
+HOLSTEIN HELIRIN
 A cow-like Helirin with a
 fashionable black brindle.
-「Wood Helirin」
+WOOD HELIRIN
 The pattern on the wood
 gives you a sense of peace.
-「Junk Helirin」
+JUNK HELIRIN
 Helirin made of
 iron plating.
-「Ketchup Helirin」
+KETCHUP HELIRIN
 Ketchup-colored Helirin
 for tomato lovers.
-「Pinstripe Helirin」
+PINSTRIPE HELIRIN
 Cool Helirin with
 fashionable design.
-「Fire Helirin」
+FIRE HELIRIN
 Hot-tempered Helirin
 with burning flames.
-「Skull Helirin」
+SKULL HELIRIN
 Skull and crossbones
 design on a black body.
-「Spider Helirin」
+SPIDER HELIRIN
 Spins a web that won't
 let go of its prey.
-「Heart Helirin」
+HEART HELIRIN
 This Helirin has a lot
 of love to go around.
-「Knyarin」
-Messy, but not
-worth avoiding it.
-「Star Helirin」
+COUMARIN HELIRIN
+Messy, but worth it.
+
+STAR HELIRIN
 A Star Helirin that looks
 like a konpieto *(sugar candy).
-「Yusha' Helirin」
+HERO HELIRIN
 Only the hero can ride the
 legendary sword Helirin.
-「Gold Helirin」
+GOLD HELIRIN
 Helirin made of solid gold.
 Reward for collecting all coins.
-「Platinum Helirin」
+PLATINUM HELIRIN
 Helirin made of platinum.
 Reward for earning stars on all stages.
-「Normal Gauge」
+NORMAL GAUGE
 The default gauge unlocked from the start.
 Simple and easy to play.
-「Sickness Gauge」
+SICKNESS GAUGE
 If you hit a wall underwater,
 your air will run out!
-「Psychedelic」
+PSI GAUGE
 A mysterious gauge designed
-with psyechedelic colors.
-「Notebook Gauge」
+with psychic colors.
+NOTEBOOK GAUGE
 The checkmark on the
 notebook disappears.
-「Technogauge」
+TECHNO GAUGE
 High tech gauge with
 various cool buttons.
-「Ramen Gauge」
+RAMEN GAUGE
 The ramen will spill
 if you hit a wall!
-「Fish Gauge」
+FISH GAUGE
 Be careful to not let
 the cats eat the fish!
-「Shingouki Gauge」
+SHINGOUKI GAUGE
 Adds kicks to the course.
 Be aware of sudden jumps!
-「Chidori Gauge」
+CHIDORI GAUGE
 The birds will
 fly away when hit.
-「Kururin Family Gauge」
+KURURIN FAMILY GAUGE
 A close-knit family of 13 Kururin.
 Try not to lose them again!
-「Flower Gauge」
+FLOWER GAUGE
 Gauge full of flowers.
 
-「Rainbow Gauge」
+RAINBOW GAUGE
 Beautiful pastel shades.
 
-「Magicians Gauge」
+MAGICIANS GAUGE
 The magicians from Kururin
 Paradise are all here!
-「Fantasy Gauge」
+FANTASY GAUGE
 Fashionable gauge
 with calm colors.
-「Isogashima Gauge」
+ISOGASHIMA GAUGE
 The bosses are here,
 and boy they are ugly!
-「Junk Gauge」
+JUNK GAUGE
 Choose this if you're a
 man with astringent gears!
-「Ghost House Gauge」
+GHOST HOUSE GAUGE
 The ghosts sleep when
 the lights go out.
-「Kingyo Gauge」
+KINGYO GAUGE
 Kingyo Sukui, the
 best of all festivals!
-「Summer Gauge」
+SUMMER GAUGE
 Eating watermelon under a blue sky
 in a field full of sunflowers.
-「Witch Gauge」
+WITCH GAUGE
 Reward for clearing all challenges.
 Slightly Adult atmosphere?
 
 
 
-「Sweet Shores 1
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 2
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 3
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 4
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 5
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 6
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 7
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 8
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 1
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 2
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 3
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 4
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 5
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 6
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 7
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Coastal Canopy 8
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Snowscape 1 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 1 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 2 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 2 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 3 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 3 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 4 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 4 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 5 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 5 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 6 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 6 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 7 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 7 GUIDE
+Watch this video to help you complete the level.
 
-「Snowscape 8 Guide」
-Use this video to help you complete the level.
+SWEET SHORES 8 GUIDE
+Watch this video to help you complete the level.
 
-「CyberCity 1
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 2
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 3
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 4
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 5
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 6
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 7
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「CyberCity 8
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 1
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 2
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 3
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 4
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 5
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 6
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 7
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「WonderVerse 8
-　　　　　　　　　　Guide」
-Use this video to help you complete the level.
-「Sweet Shores 1
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 2
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 3
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 4
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 5
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 6
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 7
-　　　　　　　Super Guide」
-Use this video to help you.
-「Sweet Shores 8
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 1
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 2
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 3
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 4
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 5
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 6
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 7
-　　　　　　　Super Guide」
-Use this video to help you.
-「Coastal Canopy 8
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 1
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 2
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 3
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 4
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 5
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 6
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 7
-　　　　　　　Super Guide」
-Use this video to help you.
-「Snowscape 8
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 1
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 2
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 3
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 4
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 5
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 6
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 7
-　　　　　　　Super Guide」
-Use this video to help you.
-「CyberCity 8
-　　　　　　　Super Guide」
-Use this video to help you.
-「WonderVerse 1
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 2
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 3
-　　　　　　　Super Guide」
-Use this video to help you.
-「WonderVerse 4
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 5
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 6
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 7
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「WonderVerse 8
-　　　　　　　Super Guide」
-Use this video for some great gameplay.
-「Sweet Shores Map」
+COASTAL CANOPY 1 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 2 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 3 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 4 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 5 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 6 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 7 GUIDE
+Watch this video to help you complete the level.
+
+COASTAL CANOPY 8 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 1 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 2 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 3 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 4 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 5 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 6 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 7 GUIDE
+Watch this video to help you complete the level.
+
+SNOWSCAPE 8 GUIDE
+Watch this video to help you complete the level.
+
+CYBERCITY 1 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 2 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 3 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 4 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 5 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 6 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 7 GUIDE
+
+Watch this video to help you complete the level.
+CYBERCITY 8 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 1 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 2 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 3 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 4 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 5 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 6 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 7 GUIDE
+
+Watch this video to help you complete the level.
+WONDERVERSE 8 GUIDE
+
+Watch this video to help you complete the level.
+SWEET SHORES 1
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 2
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 3
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 4
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 5
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 6
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 7
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES 8
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 1
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 2
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 3
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 4
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 5
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 6
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 7
+          SUPER GUIDE
+Watch this video for some great gameplay.
+COASTAL CANOPY 8
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 1
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 2
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 3
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 4
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 5
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 6
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 7
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SNOWSCAPE 8
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 1
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 2
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 3
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 4
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 5
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 6
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 7
+          SUPER GUIDE
+Watch this video for some great gameplay.
+CYBERCITY 8
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 1
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 2
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 3
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 4
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 5
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 6
+          SUPER GUIDE
+Watch this video for some great gameplay.
+WONDERVERSE 7
+          SUPER GUIDE
+Watch this video for some great gameplay.	
+WONDERVERSE 8
+          SUPER GUIDE
+Watch this video for some great gameplay.
+SWEET SHORES MAP
 You can see the minimaps of
 the stages in Sweet Shores!
-「Coastal Canopy Map」
+COASTAL CANOPY MAP
 You can see the minimaps of
 the stages in Coastal Canopy!
-「Snowscape Map」
+SNOWSCAPE MAP
 You can see the minimaps of
 the stages in Snowscape!
-「CyberCity Map」
+CYBERCITY MAP
 You can see the minimaps of
 the stages in CyberCity!
-「WonderVerse Map」
+WONDERVERSE MAP
 You can see the minimaps of
 the stages in WonderVerse!
-「Turn & Advance」
+ADVANCE PLAY
 A quiz game using the
 Game Boy Advance and Link Cable!
-「Tsururin」
+TSURURIN
 You can play Slippery Mode
 as a reward for clearing all stages!
-「Extra course」
+BONUS COURSE
 You can play on the courses
 with a different angle!
 Set faster times

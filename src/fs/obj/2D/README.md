@@ -21,11 +21,11 @@ Known files:
     -  Results
 - top.txg (complete)
     - Title Screen menu
-- vs2d.txg
+- vs2d.txg (complete)
     - In-game multiplayer text
 - vs_menu.txg 
     - Multiplayer menu
-- vs_result.txg
+- vs_result.txg (complete)
     - VS Mode Results
 - w_demo.txg
     - World names

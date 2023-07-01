@@ -11,20 +11,43 @@ ReplaceAsset($4E5FEE78, "fs/demo/text/stage.txt", 5060)
 ReplaceAsset($4E60023C, "fs/demo/text/type.txt", 112)
 ReplaceAsset($4E6002AC, "fs/demo/text/vsmenu.txt", 1108)
 
+//TextShiftJIS($0018AFBC, "")
+//TextShiftJIS($0018AFC8, "")
+//TextShiftJIS($0018AFD4, "")
+//TextShiftJIS($0018AFE4, "")
+//TextShiftJIS($0018AFF0, "")
+//TextShiftJIS($0018B004, "")
+
 TextShiftJIS($0018B1C8, "New File ")
-//82 A0 82 BD 82 E7 82 B5 82 A2 83 74 83 40 83 43 83 8B
-
 TextShiftJIS($0018B1DC, " Compact")
-//83 52 83 93 83 70 83 4E 83 67 83 54 83 43 83 59
-
 TextShiftJIS($0018B1F0, "Standard")
-//81 40 81 40 81 40 83 74 83 8B 83 54 83 43 83 59
+TextShiftJIS($0018B204, " Delete|")
+TextShiftJIS($0018B214, "  this file?|")
 
-TextShiftJIS($0018B204, " Delete")
-//82 B1 82 CC 83 74 83 40 83 43 83 8B 82 F0
+TextShiftJIS($0018B258, "Rabbit  ")
+TextShiftJIS($0018B269, "Prof.  ")
+TextShiftJIS($0018B27A, "Dad      ")
+TextShiftJIS($001BC7BA, "  ")
+TextShiftJIS($001BC7C2, "  ")
+TextShiftJIS($001BC7CA, "  ")
 
-TextShiftJIS($0018B214, "  this file? ")
-//82 B3 82 AD 82 B6 82 E5 82 B5 82 C4 82 E0 82 A2 82 A2 82 C5 82 B7 82 A9 81 48
+TextShiftJIS($0018BB68, "SOLD")
 
-//Rabbit
-//Isogashima
+//???
+//TextShiftJIS($001B9E34, "Yes")
+//TextShiftJIS($001B9E3C. " No")
+
+//File delete
+TextShiftJIS($001BCB64, "Yes")
+TextShiftJIS($001BCB6C, " No")
+
+//Confirm purchase
+TextShiftJIS($001BCF08, "Yes")
+TextShiftJIS($001BCF10, "No ")
+
+//Memory Card
+TextShiftJIS($001A7178, "MC A ")
+TextShiftJIS($001A7184, "MC B ")
+TextShiftJIS($001A71B8, "Saving..")
+TextShiftJIS($001A71F4, " Do not ")
+TextShiftJIS($001A7208, " turn off the power. ")
