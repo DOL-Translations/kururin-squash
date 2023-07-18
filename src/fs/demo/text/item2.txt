@@ -25,13 +25,13 @@ unlocked by default.
 COLORFUL HELIRIN
 Looks like a muffler
 and is a great value.
-BLUE GRADIANT HELIRIN
+BLUE GRADIENT HELIRIN
 Recommended for calm,
 refreshed indiviuals.
-ORANGE GRADIANT HELIRIN
+ORANGE GRADIENT HELIRIN
 This Helirin is themed with
 bright and stunning colors.
-GREEN GRADIANT HELIRIN
+GREEN GRADIENT HELIRIN
 Refresh your body and
 soul with shades of green.
 BLOCK HELIRIN
@@ -101,10 +101,10 @@ PAISLEY HELIRIN
 An exotic design.
 
 AROMA HELIRIN
-A nice smelling 
-Flower Helirin.
+A nice smelling Flower Helirin.
+
 NINTENDO HELIRIN
-Mario's emblem
+The symbol of Mario
 rides on the wing.
 SLICER HELIRIN
 This Super Helirin has very
@@ -137,8 +137,8 @@ WOOD HELIRIN
 The pattern on the wood
 gives you a sense of peace.
 JUNK HELIRIN
-Helirin made of
-iron plating.
+Helirin made of iron plating.
+
 KETCHUP HELIRIN
 Ketchup-colored Helirin
 for tomato lovers.
@@ -209,8 +209,8 @@ RAINBOW GAUGE
 Beautiful pastel shades.
 
 MAGICIANS GAUGE
-The magicians from Kururin
-Paradise are all here!
+The magicians from
+Kururin Paradise are here!
 FANTASY GAUGE
 Fashionable gauge
 with calm colors.
@@ -490,7 +490,7 @@ the stages in CyberCity!
 WONDERVERSE MAP
 You can see the minimaps of
 the stages in WonderVerse!
-ADVANCE PLAY
+SPIN ADVANCE
 A quiz game using the
 Game Boy Advance and Link Cable!
 TSURURIN

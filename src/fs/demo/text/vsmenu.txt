@@ -28,19 +28,19 @@ The faster the player,
 the longer the Helirin.
 Helirin can collide together
 instead of phasing through.
-Use handicaps
-in races.
-Reset to the
-default settings.
-Close the
-options menu.
-Set the number
-of hearts.
-Set the length
-of the match.
-Use handicaps
-in battles.
-Reset to the
-default settings.
-Close the
-options menu.
+Use handicaps in races.
+
+Reset the settings to default.
+
+Close the options menu.
+
+Set the number of hearts.
+
+Set the length of the match.
+
+Use handicaps in battles.
+
+Reset the settings to default.
+
+Close the options menu.
+

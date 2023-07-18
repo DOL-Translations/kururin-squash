@@ -25,13 +25,13 @@ unlocked by default.
 COLORFUL HELIRIN
 Looks like a muffler
 and is a great value.
-BLUE GRADIANT HELIRIN
+BLUE GRADIENT HELIRIN
 Recommended for calm,
 refreshed indiviuals.
-ORANGE GRADIANT HELIRIN
+ORANGE GRADIENT HELIRIN
 This Helirin is themed with
 bright and stunning colors.
-GREEN GRADIANT HELIRIN
+GREEN GRADIENT HELIRIN
 Refresh your body and
 soul with shades of green.
 BLOCK HELIRIN
@@ -104,7 +104,7 @@ AROMA HELIRIN
 A nice smelling 
 Flower Helirin.
 NINTENDO HELIRIN
-Mario's emblem
+The symbol of Mario
 rides on the wing.
 SLICER HELIRIN
 This Super Helirin has very
@@ -209,8 +209,8 @@ RAINBOW GAUGE
 Beautiful pastel shades.
 
 MAGICIANS GAUGE
-The magicians from Kururin
-Paradise are all here!
+The magicians from
+Kururin Paradise are here!
 FANTASY GAUGE
 Fashionable gauge
 with calm colors.
@@ -236,125 +236,125 @@ Slightly Adult atmosphere?
 
 
 SWEET SHORES 1 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 2 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 3 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 4 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 5 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 6 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 7 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SWEET SHORES 8 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 1 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 2 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 3 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 4 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 5 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 6 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 7 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 COASTAL CANOPY 8 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 1 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 2 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 3 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 4 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 5 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 6 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 7 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 SNOWSCAPE 8 GUIDE
-Watch this video to help you complete the level.
-
+Watch this video to
+help you complete the level.
 CYBERCITY 1 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 2 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 3 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 4 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 5 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 6 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 7 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 CYBERCITY 8 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 1 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 2 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 3 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 4 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 5 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 6 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 7 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 WONDERVERSE 8 GUIDE
-
-Watch this video to help you complete the level.
+Watch this video to
+help you complete the level.
 SWEET SHORES 1
           SUPER GUIDE
 Watch this video for some great gameplay.
@@ -490,7 +490,7 @@ the stages in CyberCity!
 WONDERVERSE MAP
 You can see the minimaps of
 the stages in WonderVerse!
-ADVANCE PLAY
+SPIN ADVANCE
 A quiz game using the
 Game Boy Advance and Link Cable!
 TSURURIN

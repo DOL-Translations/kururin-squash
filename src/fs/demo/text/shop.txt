@@ -1,4 +1,4 @@
-Welcome!
+      Welcome!
 Want to buy something?
 Thank you!
 You don't have enough coins,
@@ -6,7 +6,7 @@ You already have this.
 Leaving so soon?
 Come again!
 
-   Oh, hi!
+      Oh, hi!
 Found something you like?
 Thanks a bunch!
 You don't have enough coins.
@@ -22,7 +22,7 @@ You already have it
 Are you coming back?
 Come back soon!
 
-    Hi!
+       Hi!
 Want to buy this?
 Thank you!
 Not enough coins.
@@ -30,7 +30,7 @@ You have this already.
 Will you return?
 Good luck!
 
-Oh, welcomeÅÙ
+   Oh, welcomeÅÙ
 Do you want to buy this?
 Thanks!
 You don't have enough coins!

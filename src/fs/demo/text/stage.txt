@@ -7,19 +7,19 @@ a-1:クルリン１［We just need to aim;for the goal, right?］
 a-1:うさぎ    ［Adjusting the Helirin's rotation;is the key to avoiding walls!］
 a-1:うさぎ    ［That's the secret to smooth navigation!］
 a-1:クルリン２［Got it!;Let's do our best!］
-a_1-2:クルリン２［Let's match the rotation of the Helirin;so we don't hit the wall!］
-a-2:クルリン１［Bump the spring to;reverse the direction］
-a-3:クルリン２［Press the R Button;to rotate faster］
-a-4:うさぎ    ［Kururin！ I've made a new Helirin;to help us progress!］
+a_1-2:クルリン２［Let's match the rotation of the Helirin;to the walls so we don't hit them!］
+a-2:クルリン１［Bump the spring to;reverse the direction.］
+a-3:クルリン２［Press the R Button;to rotate faster.］
+a-4:うさぎ    ［Kururin!  I've made a new Helirin;to help us progress!］
 a-4:うさぎ    ［HELIBASH is a type of;Helirin that can punch!］
 a-4:うさぎ    ［Press the A Button to break;the obstacles and proceed.］
 a_4-2:うさぎ  ［Go crazy and punch the jammed objects!］
 a-5:クルリン１［I can spend some of the coins;I collected in the Shop later.］
-a-6:うさぎ    ［Even though you can punch, it's still;risky to get too close!］
-a-7:うさぎ    ［Are you getting use to piloting the HELIBASH?］
+a-6:うさぎ    ［Even though you can punch,;it's still risky to get too close!］
+a-7:うさぎ    ［Are you getting used to piloting the HELIBASH?］
 a-8:クルリン２［Hmm? Something seems strange］
 a-8:うさぎ    ［Punch the strawberries!］
-b-1:クルリン２［Press the B Button to go turbo!;It may be a little risky］
+b-1:クルリン２［Press the B Button to go turbo,;but be careful!］
 b-2:クルリン１［Tilt the stick slightly;to move slowly.］
 b-3:クルリン１［Whoa! The course is;completely flooded!］
 b-3:うさぎ    ［Don't worry, Kururin!;We have the HELIBUBBLE!］
@@ -67,8 +67,8 @@ e-2:うさぎ    ［There are a lot of enemies to take out before you proceed.］
 e_2-2:うさぎ  ［Break the green blocks; to unblock a path.］
 e-3:クルリン１［I'm the best of my brothers because;of my beautiful hair.］
 e-4:うさぎ    ［Those enemies can't be beaten with shots.;Run away while they're hesitating!］
-e-5:クルリン１［There might be a reward for beating Sensei Rabbit's and Professor Isogashima's times!］
-e-6:うさぎ    ［Those are a lot of enemies!;　Hang in there Kururin!］
+e-5:クルリン１［There might be a reward for beating;Sensei Rabbit's and Professor Isogashima's times!］
+e-6:うさぎ    ［Those are a lot of enemies!;Hang in there Kururin!］
 e-7:クルリン１［If Dad were here, he would be;able to navigate it easily..］
 e-8:クルリン２［What's that in the sky?］
-e-8:うさぎ    ［The professor is angry now!;Keep it up!］
+e-8:うさぎ    ［The professor is angry now! Keep it up!］
