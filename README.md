@@ -10,6 +10,18 @@ Buckle up, you're about to pilot the Helirin Universal Helicopter!  Characterize
 - Grab the [latest release](https://github.com/DOL-Translations/kururin-squash/releases/latest/)
 - Open Delta Patcher and add the translation xdelta patch and the required language iso.
 #### manual patch (Latest changes, Windows only)
-- Drop the required language iso (non-nkit compressed) into the `input` folder
+- Drop the required language iso (non-nkit compressed) into the `input` folder.
     - Make sure it is named properly! Refer to the header of the readme for more info.
-- Run `compile.bat` in the `tools` folder
+- Run `compile.bat` in the `tools` folder.
+
+
+## Text size hotfix (Gecko Code)
+- Use the following Gecko Code to reduce the size of the text.
+    - You will be able to see the text without it trailing offscreen.
+    - Working on a one-time patch to reduce the spacing between the characters.
+
+```
+C202997C 00000002
+38600013 38800013
+9421FFF0 00000000
+```
