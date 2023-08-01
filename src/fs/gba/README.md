@@ -1,4 +1,4 @@
-# Location of 2D textures for Advance Play / Turn & Advance
+# Location of 2D textures for Spin Advance
 
 Known files:
 - cmn.txg

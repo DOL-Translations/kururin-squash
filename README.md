@@ -15,13 +15,13 @@ Buckle up, you're about to pilot the Helirin Universal Helicopter!  Characterize
 - Run `compile.bat` in the `tools` folder.
 
 
-## Text size hotfix (Gecko Code)
-- Use the following Gecko Code to reduce the size of the text.
+## Text spacing hotfix (Gecko Code)
+- Use the following Gecko Code to reduce the spacing of the text.
     - You will be able to see the text without it trailing offscreen.
     - Working on a one-time patch to reduce the spacing between the characters.
 
 ```
-C202997C 00000002
-38600013 38800013
-9421FFF0 00000000
+C2029710 00000002
+38600011 9421FFF0
+60000000 00000000
 ```

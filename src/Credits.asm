@@ -1,1 +1,1 @@
-ReplaceAsset($4AF88000, "fs/demo/ending/s_roll.txg", 3489051)
+ReplaceAsset($4AF88000, "fs/demo/ending/s_roll.dat", 3489051)

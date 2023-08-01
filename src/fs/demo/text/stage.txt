@@ -33,7 +33,7 @@ b-7:クルリン１［Opening this side doesn't open the other side,; it doesn't make 
 b-8:クルリン２［This place is huge!］
 b-8:うさぎ    ［Let's get out of here!］
 c-1:クルリン２［The piston is not so scary if you;pay attention to its movement.］
-c-2:クルリン１［It's must me tough for people living;in such a cold place.］
+c-2:クルリン１［It's must be tough for people living;in such a cold place.］
 c-3:クルリン２［What!?;Where is the course?］
 c-3:うさぎ    ［Don't worry Kururin,;HELIBLAZE can slide on the rails!］
 c-3:うさぎ    ［Tilt the Control Stick to change the rotation;and press the A Button to shoot fire!］
