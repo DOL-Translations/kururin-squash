@@ -13,3 +13,5 @@ ReplaceAsset($515509C0, "fs/obj/2D/vsresult.txg", 305984)
 ReplaceAsset($5159B500, "fs/obj/2D/vs_menu.txg", 2146752)
 ReplaceAsset($517A76C0, "fs/obj/2D/w_demo.txg", 563296)
 ReplaceAsset($51830F20, "fs/obj/2D/w_map.txg", 553184)
+
+ReplaceAsset($520D8000, "fs/obj/item/itemheri/h29.dat", 20931)

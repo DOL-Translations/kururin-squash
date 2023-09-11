@@ -2,12 +2,12 @@ a-1:クルリン２［Let's go find my family!;..when it's safe to jump out. ］
 a-1:クルリン１［Where on earth are you guys?］
 a-1:うさぎ    ［You have now boarded the;HELIRIN Universal Helicopter.］
 a-1:うさぎ    ［Let's aim for the goal!］
-a-1:うさぎ    ［If we visit the places we passed during our trip,;we should be able to find our family!］
+a-1:うさぎ    ［If we visit the places we passed,;we should find our family!］
 a-1:クルリン１［We just need to aim;for the goal, right?］
 a-1:うさぎ    ［Adjusting the Helirin's rotation;is the key to avoiding walls!］
-a-1:うさぎ    ［That's the secret to smooth navigation!］
+a-1:うさぎ    ［That's the secret to;smooth navigation!］
 a-1:クルリン２［Got it!;Let's do our best!］
-a_1-2:クルリン２［Let's match the rotation of the Helirin;to the walls so we don't hit them!］
+a_1-2:クルリン２［Let's match the rotation;to the walls so we don't hit them!］
 a-2:クルリン１［Bump the spring to;reverse the direction.］
 a-3:クルリン２［Press the R Button;to rotate faster.］
 a-4:うさぎ    ［Kururin!  I've made a new Helirin;to help us progress!］

@@ -1,1 +1,0 @@
-ReplaceAsset($52E9A194, "fs/opening.bnr", 6496)
