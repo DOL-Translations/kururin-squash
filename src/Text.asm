@@ -1,13 +1,9 @@
 //Text format patch
-//This currently has issues with the Saving Game.. text
-//Hardcodes the text formatting function to display text
-//	with smallest spacing width, left justified, start at left side of screen
-
-//origin $1BE150 //($1FE00 + $19E350) //go to dol padding
-//base $80029710 //map padding to address 80029710 (format_text)
-//db 
-//"li r3,0x11" //write li r3,0x11 at $1BE150
-//"stwu sp, -0x0010 (sp)" //write stwu sp, -0x0010 (sp) directly after
+//patch $14 with $11
+origin $6C5C3; db $11
+origin $6C67F; db $11
+//origin $22E53; db $11
+//origin $E0617; db $11
 
 //Raw text .txt files
 ReplaceAsset($4E5F53FC, "fs/demo/text/boss.txt", 4039)
@@ -45,28 +41,4 @@ TextShiftJIS($0018BB68, "SOLD")
 TextShiftJIS($001BCF08, "Yes")
 TextShiftJIS($001BCF10, "No ")
 
-//Memory Card
-TextShiftJIS($001A7178, "     ")
-TextShiftJIS($001A7184, "     ")
-TextShiftJIS($001A71B8, "        ")
-TextShiftJIS($001A71F4, "        ")
-TextShiftJIS($001A7208, "                     ")
-//TextShiftJIS($001A7178, "MC A ")
-//TextShiftJIS($001A7184, "MC B ")
-//TextShiftJIS($001A71B8, "Saving..")
-//TextShiftJIS($001A71F4, " Do not ")
-//TextShiftJIS($001A7208, " turn off the power. ")
-
-//Progressive Scan
-//todo
-TextShiftJIS($001B9E34, "Yes")
-TextShiftJIS($001B9E3C, " No")
-
-//???
-//TextShiftJIS($0018AFBC, "")
-//TextShiftJIS($0018AFC8, "")
-//TextShiftJIS($0018AFD4, "")
-//TextShiftJIS($0018AFE4, "")
-//TextShiftJIS($0018AFF0, "")
-//TextShiftJIS($0018B004, "")
 

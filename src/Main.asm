@@ -7,6 +7,7 @@ origin $000000; insert "../input/Kururin Squash! [J].iso" // Include Japanese Ku
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
   map '|', 0x00 // End of string 
+  map '\n', 0x10 // New line
 
   origin {OFFSET}
   db {TEXT} // ASCII Text To Print
@@ -53,12 +54,13 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-//Text($3, "E")
+Text($3, "E")
+origin $45B; db $01
 
 include "Banner.asm"
 include "Credits.asm"
 include "Gba.asm"
 include "Obj.asm"
-//include "Opening_bnr.asm"
+include "System.asm"
 include "Text.asm"
 include "Title.asm"

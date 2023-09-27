@@ -1,5 +1,5 @@
 HEART-UP (1 use)
-Increases the number of hearts to
+Increases the hearts to
 five for a better piece of mind.
 ‚h‚s‚d‚lQ‚h‚O‚P
 ‚h‚s‚d‚lQ‚h‚O‚P
@@ -14,8 +14,8 @@ five for a better piece of mind.
 ‚h‚s‚d‚lQ‚h‚O‚S
 ‚h‚s‚d‚lQ‚h‚O‚S
 AMAZING HEART (1 use)
-Start from the Respawn Area even
-if you lose all of your hearts!
+Start from the Respawn Area
+after you lose all of your hearts!
 ‚h‚s‚d‚lQ‚h‚O‚U
 ‚h‚s‚d‚lQ‚h‚O‚U
 ‚h‚s‚d‚lQ‚h‚O‚U
@@ -38,8 +38,8 @@ BLOCK HELIRIN
 Redesigned using a cute
 pink-based shade.
 CHOCOLATE HELIRIN
-A Helirin made from a chocolate bar.
-Tastes like very sweet milk chocolate.
+Made from a chocolate bar.
+Tastes very sweet.
 SNOWMAN HELIRIN
 This unique snowman
 can never melt.
@@ -492,7 +492,7 @@ You can see the minimaps of
 the stages in WonderVerse!
 SPIN ADVANCE
 A quiz game using the
-Game Boy Advance and Link Cable!
+GBA and Link Cable!
 TSURURIN
 You can play Slippery Mode
 as a reward for clearing all stages!

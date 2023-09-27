@@ -52,7 +52,7 @@ d-2:うさぎ    ［Hold the A Button to rotate;faster and deflect attacks! ］
 d-2:うさぎ    ［The size of the tornado increases over time,;and will fire once you release the button!］
 d-2:うさぎ    ［You should practice so you;can launch it successfully.］
 d-2:うさぎ    ［The trick to flying well is;getting more practice.］
-d_2-2:うさぎ  ［Small tornadoes only take a short;time to form they can be launched quicker.］
+d_2-2:うさぎ  ［Small tornadoes only take a short;time to form so they can be launched quicker.］
 d-3:クルリン２［Proceed carefully so you don't hit a wall.］
 d-4:うさぎ    ［The tornado has so much power!;Even I can't stop it!］
 d-5:クルリン２［Wow, there are so many paths.;Don't get lost!］

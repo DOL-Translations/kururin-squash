@@ -23,7 +23,7 @@ Known files:
     - Title Screen menu
 - vs2d.txg (complete)
     - In-game multiplayer text
-- vs_menu.txg 
+- vs_menu.txg (complete)
     - Multiplayer menu
 - vs_result.txg (complete)
     - VS Mode Results
