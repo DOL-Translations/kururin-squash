@@ -14,14 +14,12 @@ Buckle up, you're about to pilot the Helirin Universal Helicopter!  Characterize
     - Make sure it is named properly! Refer to the header of the readme for more info.
 - Run `compile.bat` in the `tools` folder.
 
-
-## Text spacing hotfix (Gecko Code)
-- Use the following Gecko Code to reduce the spacing of the text.
-    - You will be able to see the text without it trailing offscreen.
-    - Working on a one-time patch to reduce the spacing between the characters.
-
-```
-C2029710 00000002
-38600011 9421FFF0
-60000000 00000000
-```
+## Special thanks
+* __BttrDrgn__ for putting these translation projects together and maintaining the environments
+* __deiv__ for creating the English logo and boxart and assistance with graphics
+* __Struggleton__ for [TXG2TPL](https://github.com/Struggleton/TXG2TPL)
+* __The BrawlTools__ contributers for [BrawlBox](https://github.com/libertyernie/brawltools)
+* __DRGN-DRC__ for [DAT Texture Wizard](https://github.com/DRGN-DRC/DAT-Texture-Wizard)
+* __ARM9__ for their continuation of [bass](https://github.com/ARM9/bass)
+* The folks at __GC/Wii Decompilation__ for help with code-based romhacking
+* And everyone in the community who has pioneered romhacking and game translations
