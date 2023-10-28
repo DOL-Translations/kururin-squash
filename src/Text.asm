@@ -38,7 +38,7 @@ TextShiftJIS($001BC7CA, "  ")
 
 //Shop text
 TextShiftJIS($0018BB68, "SOLD")
-TextShiftJIS($001BCF08, "Yes")
-TextShiftJIS($001BCF10, "No ")
+Text($001BCF08, " Yes|")
+Text($001BCF10, "  No|")
 
 
