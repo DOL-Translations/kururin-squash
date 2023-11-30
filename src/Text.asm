@@ -19,6 +19,15 @@ ReplaceAsset($4E5FEE78, "fs/demo/text/stage.txt", 5060)
 ReplaceAsset($4E60023C, "fs/demo/text/type.txt", 112)
 ReplaceAsset($4E6002AC, "fs/demo/text/vsmenu.txt", 1108)
 
+//Challenge text
+Text($00189C60, "Your best time is |")
+//origin $0006B68B; db $01
+//origin $0006B68F; db $01
+origin $0006B6B7; db $30
+//origin $0006B78F; db $01
+//origin $0006B797; db $FF
+//origin $0006B7A3; db $04
+
 //File Select text
 TextShiftJIS($0018B1C8, "New File ")
 TextShiftJIS($0018B1DC, " Compact")
@@ -40,5 +49,6 @@ TextShiftJIS($001BC7CA, "  ")
 TextShiftJIS($0018BB68, "SOLD")
 Text($001BCF08, " Yes|")
 Text($001BCF10, "  No|")
+
 
 
