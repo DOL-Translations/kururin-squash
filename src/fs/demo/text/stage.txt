@@ -13,62 +13,62 @@ a-3:クルリン２［Press the R Button;to rotate faster.］
 a-4:うさぎ    ［Kururin!  I've made a new Helirin;to help us progress!］
 a-4:うさぎ    ［HELIBASH is a type of;Helirin that can punch!］
 a-4:うさぎ    ［Press the A Button to break;the obstacles and proceed.］
-a_4-2:うさぎ  ［Go crazy and punch the jammed objects!］
+a_4-2:うさぎ  ［Go crazy and punch the obstacles!］
 a-5:クルリン１［I can spend some of the coins;I collected in the Shop later.］
 a-6:うさぎ    ［Even though you can punch,;it's still risky to get too close!］
-a-7:うさぎ    ［Are you getting used to piloting the HELIBASH?］
-a-8:クルリン２［Hmm? Something seems strange］
+a-7:うさぎ    ［Are you getting used to;piloting the HELIBASH?］
+a-8:クルリン２［Hmm? Something seems strange.］
 a-8:うさぎ    ［Punch the strawberries!］
 b-1:クルリン２［Press the B Button to go turbo,;but be careful!］
 b-2:クルリン１［Tilt the stick slightly;to move slowly.］
 b-3:クルリン１［Whoa! The course is;completely flooded!］
 b-3:うさぎ    ［Don't worry, Kururin!;We have the HELIBUBBLE!］
-b-3:うさぎ    ［Not only can it float on water,;but you can also dive with the A Button!］
-b-3:うさぎ    ［Don't forget to get air,;you won't last long without it!］
+b-3:うさぎ    ［Not only can it float on water,;but can also dive with the A Button!］
+b-3:うさぎ    ［Don't forget to get some air,;you won't last long without it!］
 b_3-2:うさぎ  ［Float and dive to progress!］
 b-4:クルリン１［By mastering the R Button, you can;finish quicker and have more fun!］
 b-5:クルリン２［Be careful around the fast current!］
 b-6:クルリン１［There may be a reward for;collecting all of the coins!］
-b-7:クルリン１［Opening this side doesn't open the other side,; it doesn't make any sense.］
+b-7:クルリン１［Opening one side doesn't open;the other side?］
 b-8:クルリン２［This place is huge!］
 b-8:うさぎ    ［Let's get out of here!］
 c-1:クルリン２［The piston is not so scary if you;pay attention to its movement.］
 c-2:クルリン１［It's must be tough for people living;in such a cold place.］
 c-3:クルリン２［What!?;Where is the course?］
 c-3:うさぎ    ［Don't worry Kururin,;HELIBLAZE can slide on the rails!］
-c-3:うさぎ    ［Tilt the Control Stick to change the rotation;and press the A Button to shoot fire!］
+c-3:うさぎ    ［Adjust rotation with the Control;Stick and shoot fire with the A Button!］
 c-3:うさぎ    ［Once on the rails you cannot stop,;so be careful!］
 c_3-2:うさぎ  ［Change the rotation to;avoid obstacles!］
-c-4:クルリン１［It's so cold that my feathers;are freezing off.］
-c-5:うさぎ    ［If you dash with the B Button, the flame will become longer and power up!］
+c-4:クルリン１［My feathers are freezing. I wonder;where Maririn and the others are.］
+c-5:うさぎ    ［If you dash with the B Button,;the flame will longer!］
 c-6:クルリン１［This course looks confusing.］
-c-7:うさぎ    ［Someone is chasing you!; Quick, run away!］
-c-8:クルリン１［What's going on? It's getting even colder.］
+c-7:うさぎ    ［Someone is chasing you!;Quick, run away!］
+c-8:クルリン１［What's going on?;It's getting even colder.］
 c-8:うさぎ    ［Quick! Mist the feathers;on its head!］
 d-1:クルリン１［If you master the timing;you can finish faster.］
 d-2:クルリン２［Sensei Rabbit, what can;this Helirin do?］
 d-2:うさぎ    ［This is the HELIBLOW!］
 d-2:うさぎ    ［Hold the A Button to rotate;faster and deflect attacks! ］
-d-2:うさぎ    ［The size of the tornado increases over time,;and will fire once you release the button!］
-d-2:うさぎ    ［You should practice so you;can launch it successfully.］
+d-2:うさぎ    ［The tornado gets bigger over time.;Release the A Button to fire it!］
+d-2:うさぎ    ［You should practice first;so you can launch it successfully.］
 d-2:うさぎ    ［The trick to flying well is;getting more practice.］
-d_2-2:うさぎ  ［Small tornadoes only take a short;time to form so they can be launched quicker.］
-d-3:クルリン２［Proceed carefully so you don't hit a wall.］
+d_2-2:うさぎ  ［Small tornadoes only take;a short time to launch.］
+d-3:クルリン２［Proceed with caution so;you don't hit a wall.］
 d-4:うさぎ    ［The tornado has so much power!;Even I can't stop it!］
 d-5:クルリン２［Wow, there are so many paths.;Don't get lost!］
 d-6:クルリン１［My eyes are getting dizzy by;watching that turn round and round..］
-d-7:クルリン２［It definitly is a futuristic city!;Those are some sweet cars.］
+d-7:クルリン２［It definitely is a futuristic city!;Those are some sweet cars.］
 d-8:クルリン２［This place is strangely quiet.］
 d-8:うさぎ    ［Be careful not to get crushed!］
 e-1:クルリン２［Dad! Mom!;I'm coming to rescue you!］
 e-2:クルリン１［This Helirin is awesome!］
-e-2:うさぎ    ［Press A while using HELIBEAM to use your Laser!］
-e-2:うさぎ    ［There are a lot of enemies to take out before you proceed.］
-e_2-2:うさぎ  ［Break the green blocks; to unblock a path.］
+e-2:うさぎ    ［Press A while using HELIBEAM;to use your Laser!］
+e-2:うさぎ    ［There are a lot of enemies;to take out before you proceed.］
+e_2-2:うさぎ  ［Break the green blocks;to unblock a path.］
 e-3:クルリン１［I'm the best of my brothers because;of my beautiful hair.］
-e-4:うさぎ    ［Those enemies can't be beaten with shots.;Run away while they're hesitating!］
-e-5:クルリン１［There might be a reward for beating;Sensei Rabbit's and Professor Isogashima's times!］
+e-4:うさぎ    ［Those enemies can't be shot.;Run away while they're stunned!］
+e-5:クルリン１［There's a reward for beating Sensei;Rabbit's and Professor Isogashima's times!］
 e-6:うさぎ    ［Those are a lot of enemies!;Hang in there Kururin!］
 e-7:クルリン１［If Dad were here, he would be;able to navigate it easily..］
 e-8:クルリン２［What's that in the sky?］
-e-8:うさぎ    ［The professor is angry now! Keep it up!］
+e-8:うさぎ    ［The professor is angry now!;Keep it up!］

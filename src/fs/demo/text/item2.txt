@@ -56,8 +56,8 @@ SAKURA HELIRIN
 Pink Helirin popular
 with the girls.
 MATCHA SAKURA HELIRIN
+A sweet tea made from Sakura.
 Popular with relaxed girls.
-
 WAVE HELIRIN
 Japanese-style Helirin
 with waves painted on the wings.
@@ -175,7 +175,7 @@ Reward for earning stars on all stages.
 NORMAL GAUGE
 The default gauge unlocked from the start.
 Simple and easy to play.
-SICKNESS GAUGE
+DEEP SEA GAUGE
 If you hit a wall underwater,
 your air will run out!
 PSI GAUGE
@@ -193,11 +193,11 @@ if you hit a wall!
 FISH GAUGE
 Be careful to not let
 the cats eat the fish!
-SHINGOUKI GAUGE
-Adds kicks to the course.
-Be aware of sudden jumps!
-CHIDORI GAUGE
-The birds will
+DANGER GAUGE
+Adds hazards to the course.
+Watch out for sudden jumps!
+BIRD GAUGE
+The flock of birds will
 fly away when hit.
 KURURIN FAMILY GAUGE
 A close-knit family of 13 Kururin.
@@ -221,11 +221,11 @@ JUNK GAUGE
 Choose this if you're a
 man with astringent gears!
 GHOST HOUSE GAUGE
-The ghosts sleep when
-the lights go out.
-KINGYO GAUGE
-Kingyo Sukui, the
-best of all festivals!
+The ghosts go to sleep
+when the lights go out.
+KINGYO SUKUI GAUGE
+Goldfish scooping,
+the best of all games!
 SUMMER GAUGE
 Eating watermelon under a blue sky
 in a field full of sunflowers.

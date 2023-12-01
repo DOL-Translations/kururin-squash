@@ -56,14 +56,14 @@ SAKURA HELIRIN
 Pink Helirin popular
 with the girls.
 MATCHA SAKURA HELIRIN
+A sweet tea made from Sakura.
 Popular with relaxed girls.
-
 WAVE HELIRIN
 Japanese-style Helirin
-with waves painted on the wings.
+with waves on the wings.
 MUSHROOM HELIRIN
-You can't eat these mushrooms!
-They are only part of the design.
+You can't eat the mushrooms!
+They are part of the design.
 SKY HELIRIN
 This Helirin is fun to
 ride on a sunny day.
@@ -126,7 +126,7 @@ This leopard-like
 Helirin makes me feel rich.
 ZEBRA HELIRIN
 The two-tone color makes this
-Helirin look even more like a zebra.
+Helirin look like a zebra.
 TIGER HELIRIN
 This Helirin looks as
 strong as a tiger.
@@ -177,7 +177,7 @@ The default gauge unlocked from the start.
 Simple and easy to play.
 SICKNESS GAUGE
 If you hit a wall underwater,
-your air will run out!
+you'll run out of air!
 PSI GAUGE
 A mysterious gauge designed
 with psychic colors.
@@ -193,11 +193,11 @@ if you hit a wall!
 FISH GAUGE
 Be careful to not let
 the cats eat the fish!
-SHINGOUKI GAUGE
-Adds kicks to the course.
-Be aware of sudden jumps!
-CHIDORI GAUGE
-The birds will
+DANGER GAUGE
+Adds hazards to the course.
+Watch out for sudden jumps!
+BIRD GAUGE
+The flock of birds will
 fly away when hit.
 KURURIN FAMILY GAUGE
 A close-knit family of 13 Kururin.
@@ -221,11 +221,11 @@ JUNK GAUGE
 Choose this if you're a
 man with astringent gears!
 GHOST HOUSE GAUGE
-The ghosts sleep when
-the lights go out.
-KINGYO GAUGE
-Kingyo Sukui, the
-best of all festivals!
+The ghosts go to sleep
+when the lights go out.
+KINGYO SUKUI GAUGE
+Goldfish scooping,
+the best of all games!
 SUMMER GAUGE
 Eating watermelon under a blue sky
 in a field full of sunflowers.
@@ -357,124 +357,124 @@ Watch this video to
 help you complete the level.
 SWEET SHORES 1
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 2
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 3
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 4
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 5
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 6
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 7
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES 8
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 1
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 2
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 3
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 4
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 5
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 6
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 7
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 COASTAL CANOPY 8
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 1
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 2
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 3
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 4
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 5
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 6
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 7
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SNOWSCAPE 8
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 1
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 2
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 3
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 4
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 5
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 6
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 7
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 CYBERCITY 8
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 1
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 2
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 3
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 4
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 5
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 6
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 WONDERVERSE 7
           SUPER GUIDE
-Watch this video for some great gameplay.	
+Watch for some great gameplay.	
 WONDERVERSE 8
           SUPER GUIDE
-Watch this video for some great gameplay.
+Watch for some great gameplay.
 SWEET SHORES MAP
 You can see the minimaps of
 the stages in Sweet Shores!
