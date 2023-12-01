@@ -12,29 +12,29 @@ Thanks a bunch!
 Not enough coins.
 You already have these!
 Are you coming back?
-See you again!
+  See you again!
 
 Want to buy something?
 Is this okay?
 Thanks!
-You don't have enough coins
-You already have it
+You don't have enough coins.
+You already have it.
 Are you coming back?
 Come back soon!
 
        Hi!
 Want to buy this?
 Thank you!
-Not enough coins.
+ Not enough coins.
 You have this already.
 Will you return?
-Good luck!
+  Good luck!
 
    Oh, welcome!
 Do you want to buy this?
 Thanks!
-Not enough coins.
+ Not enough coins.
 Already have this.
 Will you be back?
-Do your best!
+  Do your best!
 

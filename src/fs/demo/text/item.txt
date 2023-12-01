@@ -20,7 +20,7 @@ after you lose all of your hearts!
 ÇhÇsÇdÇlÅQÇhÇOÇU
 ÇhÇsÇdÇlÅQÇhÇOÇU
 CLASSIC HELIRIN
-The common Heririn
+The common Helirin
 unlocked by default.
 COLORFUL HELIRIN
 Looks like a muffler
@@ -44,7 +44,7 @@ SNOWMAN HELIRIN
 This unique snowman
 can never melt.
 TANK HELIRIN
-Even though it's a tank, it can fly!
+This tank can fly!
 Made of 76mm boxwood.
 HOT CHOCOLATE HELIRIN
 Helirin that warms you up
@@ -200,7 +200,7 @@ BIRD GAUGE
 The flock of birds will
 fly away when hit.
 KURURIN FAMILY GAUGE
-A close-knit family of 13 Kururin.
+A loving family of 13 Kururin.
 Try not to lose them again!
 FLOWER GAUGE
 Gauge full of flowers.
@@ -227,7 +227,7 @@ KINGYO SUKUI GAUGE
 Goldfish scooping,
 the best of all games!
 SUMMER GAUGE
-Eating watermelon under a blue sky
+Eating watermelon
 in a field full of sunflowers.
 WITCH GAUGE
 Reward for clearing all challenges.
