@@ -67,7 +67,7 @@ e-2:うさぎ    ［There are a lot of enemies;to take out before you proceed.］
 e_2-2:うさぎ  ［Break the green blocks;to unblock a path.］
 e-3:クルリン１［I'm the best of my brothers because;of my beautiful hair.］
 e-4:うさぎ    ［Those enemies can't be shot.;Run away while they're stunned!］
-e-5:クルリン１［There's a reward for beating Sensei;Rabbit's and Professor Isogashima's times!］
+e-5:クルリン１［There's a reward for beating Sensei;Rabbit's and the Professor's times!］
 e-6:うさぎ    ［Those are a lot of enemies!;Hang in there Kururin!］
 e-7:クルリン１［If Dad were here, he would be;able to navigate it easily..］
 e-8:クルリン２［What's that in the sky?］

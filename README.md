@@ -14,11 +14,15 @@ Buckle up, you're about to pilot the Helirin Universal Helicopter!  Characterize
     - Make sure it is named properly! Refer to the header of the readme for more info.
 - Run `compile.bat` in the `tools` folder.
 
+## Contributing
+Found a way this translation can be improved? Send in a pull request with your desired changes and they will be reviewed and integrated into a future update. Raw in-game text can be found in `src/fs/demo/text` and can be opened in your favorite text editor.
+
 ## Special thanks
 * __BttrDrgn__ for putting these translation projects together and maintaining the environments
 * __deiv__ for creating the English logo and boxart and assistance with graphics
+* __DimeDime__ for romhacking the GBA multiboot ROM graphics
 * __Struggleton__ for [TXG2TPL](https://github.com/Struggleton/TXG2TPL)
-* __The BrawlTools__ contributers for [BrawlBox](https://github.com/libertyernie/brawltools)
+* The __BrawlTools__ contributers for [BrawlBox](https://github.com/libertyernie/brawltools)
 * __DRGN-DRC__ for [DAT Texture Wizard](https://github.com/DRGN-DRC/DAT-Texture-Wizard)
 * __ARM9__ for their continuation of [bass](https://github.com/ARM9/bass)
 * The folks at __GC/Wii Decompilation__ for help with code-based romhacking

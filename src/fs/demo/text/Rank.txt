@@ -3,7 +3,7 @@ R-1 : 360［Congradulations!;Kururin!］
 R-1 : 380［］
 R-1 : 720［You've beaten my time in;all the stages!］
 R-1 : 740［］
-R-1 :1080［You've become such an excellent pilot!;You are now a true SENSEI］
+R-1 :1080［You've become such an excellent pilot!;You are now a true SENSEI.］
 R-1 :1100［］
 R-1 :1440［Gee, thanks!　;Sensei has a nice ring to it.］
 
@@ -36,7 +36,7 @@ R-3 :1820［］
 R-3 :2160［From now on, you are your greatest rival!;Strive for the fastest times!］
 
 R-4 :  30［］
-R-4 : 360［Congrats on clearing, Kururin!］
+R-4 : 360［Congrats on clearing all the;stages, Kururin!］
 R-4 : 380［］
 R-4 : 720［As a reward, I've bought you;a weird-looking Helirin.］
 R-4 : 740［］
@@ -93,10 +93,10 @@ R-7 :1800［EXTRA COURSE can make;the course look different!］
 R-7 :1820［］
 R-7 :2160［You can select it from the;Special tab in your Inventory.］
 R-7 :2180［］
-R-7 :2520［You can use it in Adventure, too!;Use it to change the atmosphere］
+R-7 :2520［You can use it in Adventure, too!;Use it to change the atmosphere.］
 
 R-8 :  30［］
-R-8 : 360［Congradulations on completing;Adventure Mode!
+R-8 : 360［Congradulations on;completing Time Trials!］
 R-8 : 380［］
 R-8 : 720［You've beaten all the highscores!］
 R-8 : 740［］
@@ -104,8 +104,8 @@ R-8 :1080［Well done! Your skills have definitely;improved, haven't they?］
 R-8 :1100［］
 R-8 :1440［Thanks, Sensei Rabbit!;I do feel like I've gotten better.］
 R-8 :1460［］
-R-8 :1800［As a reward, here's a rare;Helirin and Meter set!］
+R-8 :1800［As a reward, here's a rare;Helirin and Gauge set!］
 R-8 :1820［］
 R-8 :2160［I put them in your inventory;You should check them out.］
 R-8 :2180［］
-R-8 :2520［Now on to conquer the other modes!;Time Trials is sure to give you a challenge.］
+R-8 :2520［Now on to conquer the other modes!］

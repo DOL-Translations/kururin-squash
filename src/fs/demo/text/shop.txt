@@ -1,5 +1,5 @@
       Welcome!
-Do you want to buy this?
+  Want to buy this?
        Thank you!
 Not enough coins.
 You already have this.
@@ -23,7 +23,7 @@ Are you coming back?
 Come back soon!
 
        Hi!
-Want to buy this?
+  Want to buy this?
 Thank you!
  Not enough coins.
 You have this already.
@@ -31,8 +31,8 @@ Will you return?
   Good luck!
 
    Oh, welcome!
-Do you want to buy this?
-Thanks!
+Want to buy this?
+  Thanks!
  Not enough coins.
 Already have this.
 Will you be back?

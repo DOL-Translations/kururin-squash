@@ -117,7 +117,7 @@ Not sure how it tastes
 because I haven't tried it yet.
 KAMASLEY HELIRIN
 There are no blind spots with
-the sickles on its wing and head!
+the sickles on its wings!
 SNAKE HELIRIN
 Helirin made of
 snake leather.
@@ -175,7 +175,7 @@ Reward for earning stars on all stages.
 NORMAL GAUGE
 The default gauge unlocked from the start.
 Simple and easy to play.
-SICKNESS GAUGE
+DEEP SEA GAUGE
 If you hit a wall underwater,
 you'll run out of air!
 PSI GAUGE

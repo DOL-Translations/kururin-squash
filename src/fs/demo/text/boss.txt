@@ -36,7 +36,7 @@ W-C :  490［Everyone will become busy!］
 W-C :  620［But I don't want to be busy!］
 W-C :  710［What do you want?!］
 W-C :  925［You're just using your;free time anyway! Get to work!］
-W-C : 1167［Come to think of it, Professor;Isogashima has a such strange name, doesn't he?］
+W-C : 1167［Come to think of it, Professor;Isogashima has a such strange name.］
 W-C : 1390［Lalalala..                           ;I'm not listening!!］
 W-C : 1450［］
 W-C : 1600［You're never busy, despite;being a Kururin!］
@@ -85,7 +85,7 @@ W-E : 2800［You said you had nothing;to do earlier!］
 W-E : 2855［］
 W-E : 3004［Professor Isogashima..］
 W-E : 3120［Look at that!］
-W-E : 3399［If you could help fix the disaster with;the Isogashima System, I'd be grateful!］
+W-E : 3399［If you could help fix the Isogashima;System disaster, I'd be grateful!］
 W-E : 3493［Oooooh!］
 W-E : 3700［Did you get that?］
 W-E : 3794［］

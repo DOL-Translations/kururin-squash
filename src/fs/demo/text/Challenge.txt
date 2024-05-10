@@ -1,8 +1,8 @@
 a-1:うさぎ    ［Use dash and aim for the goal!］
 a-2:うさぎ    ［Crashing gives a 3 second penalty!］
-a-3:うさぎ    ［Use 'R' to wait rotations］
-a-4:うさぎ    ［Minimize extra movement with 'R'］
-a-5:うさぎ    ［Try to use the inside of the curve］
+a-3:うさぎ    ［Use 'R' to rotate faster.］
+a-4:うさぎ    ［Minimize wait times with 'R'.］
+a-5:うさぎ    ［Try to use the inside of the curve.］
 a-6:うさぎ    ［Use caution in narrow areas!］
 a-7:うさぎ    ［Aim for shortcuts!］
 a-8:うさぎ    ［Some springs you shouldn't touch］
