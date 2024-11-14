@@ -1,5 +1,5 @@
 R-1 :  30［］
-R-1 : 360［Congradulations!;Kururin!］
+R-1 : 360［Congratulations!;Kururin!］
 R-1 : 380［］
 R-1 : 720［You've beaten my time in;all the stages!］
 R-1 : 740［］
@@ -46,7 +46,7 @@ R-4 :1440［Yay! Thank you, Sensei Rabbit!］
 R-4 :1460［］
 R-4 :1800［It doesn't have wings, so it's easy to;avoid obstacles, but it can't stay still.］
 R-4 :1820［］
-R-4 :2160［When you play, choose;TSURU TSURU TSURURIN in Mode Select.］
+R-4 :2160［When you play, choose;SLIPPERY MODE in Mode Select.］
 R-4 :2180［］
 R-4 :2520［Have fun!］
 

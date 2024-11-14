@@ -1,8 +1,8 @@
 // GameCube "Kururin Squash!" Japanese To English Translation
 
 endian msb // GameCube PPC requires Big-Endian Encoding (Most Significant Bit)
-output "../output/Kururin Squash! [U].iso", create
-origin $000000; insert "../input/Kururin Squash! [J].iso" // Include Japanese Kururin Squash! ISO
+output "../../output/Kururin Squash! [U].iso", create
+origin $000000; insert "../../input/Kururin Squash! [J].iso" // Include Japanese Kururin Squash! ISO
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256 // Map Default ASCII Chars
@@ -11,6 +11,59 @@ macro Text(OFFSET, TEXT) {
 
   origin {OFFSET}
   db {TEXT} // ASCII Text To Print
+}
+
+//new text replacement macro, only used for Memory Card text
+macro TextMC(OFFSET, TEXT) {
+  map 0, 0, 256 // Map Default ASCII Chars
+  map '\n', 0x0A // New line
+
+  origin {OFFSET}
+  variable availableLength = 0;
+  while (read(origin() + availableLength) != 0x00) {
+    ds 1
+  }
+
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+  if (read(origin()) == 0x00) {
+    fill 1
+  }
+
+  availableLength = origin() - {OFFSET} - 1
+  
+  origin {OFFSET}
+  db {TEXT} // ASCII Text To Print
+
+  variable newLength = origin() - {OFFSET}
+  if (newLength > availableLength) {
+    print {TEXT}
+    print " is too big by "
+    print (newLength - availableLength)
+  }
+
+  while (read(origin()) != 0x00) {
+    fill 1
+  } 
+}
+
+// Warning: use address first!!
+macro TextMC(TEXT) {
+  variable i = 40;
+  while (i > 0 && read(origin()) < 0x01) {
+    ds 1
+    i = i - 1;
+  }
+  
+  variable ori = origin()
+  TextMC(ori, {TEXT})
 }
 
 macro TextShiftJIS(OFFSET, TEXT) {
@@ -54,7 +107,7 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-Text($3, "E")
+origin $3; db $45 //E
 origin $45B; db $01
 
 include "Banner.asm"

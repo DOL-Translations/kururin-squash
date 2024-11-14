@@ -1,0 +1,70 @@
+//Disc Cover Open, Progressive Scan, Error Occurred - use English
+origin $22E67; db $01
+//origin $24D75; db $03
+Text($00187FBA, "Kururin Squash! Game Disc.\n|")
+Text($00187FEC, "Kururin Squash! Game Disc.\n|")
+
+//Memory Card
+TextMC($001A7178, "Slot A\n")
+TextMC("Slot B\n") //Slot B
+TextMC("Checking..\n")
+TextMC("Loading..\n")
+TextMC("Saving..\n")
+TextMC("Formatting..\n")
+TextMC("Deleting..\n")
+TextMC("Do not touch the\n")
+TextMC("Memory Card or the POWER Button.\n")
+TextMC("Load this file?\n")
+TextMC("Save this file?\n")
+TextMC("Format?\n")
+TextMC("Delete this file?\n")
+TextMC("Save data found.\n")
+TextMC("Save the game?\n")
+TextMC("If you continue\n")
+TextMC("you won't be able to save.\n")
+TextMC("Start the game?\n")
+TextMC("You cannot save.\n")
+TextMC("Continue?\n")
+TextMC("If you continue you won't be able\n")
+TextMC("Continue the game?\n")
+
+TextMC($001A74E4, "The Memory Card\n")
+TextMC("cannot load.")
+TextMC("cannot save.")
+
+TextMC($001A75C4, "No Memory Card inserted.\n")
+TextMC("Format required.")
+TextMC("The save data is corrupted.\n")
+TextMC("Wrong device is inserted.\n")
+TextMC("Check if there is any free space.\n")
+TextMC("You can save but\n")
+TextMC("no new save data can be created.\n")
+TextMC("The Memory Card cannot be used.\n")
+TextMC("No save data found.\n")
+TextMC("The save data is corrupted.")
+TextMC("Access error.\n")
+TextMC("Load failed.\n")
+TextMC("Save failed.\n")
+TextMC("Format failed.\n")
+TextMC("Delete failed.\n")
+TextMC("There is not enough free space.\n") //on the\nMemory Card In order to save, 1 file is required.\n")
+TextMC("There is not enough free space.\n") //In order to save, 2 file are required.\n")
+TextMC("1 block and 1 file are required.\n")
+TextMC("2 blocks and 1 file are required.\n")
+TextMC("The number of files will exceed the limit.")
+TextMC("The Memory Card is broken\n")
+TextMC("and can't be used.\n")
+TextMC("The Memory Card was removed.\n")
+
+//Save Data
+Text($001A7C58, "Kururin Squash!"); fill 6
+Text($001A7C78, "Rotating Action Game")
+ReplaceAsset($504306E0, "../ww/fs/icon_bnr/banner.tpl", 3680)
+
+//???
+Text($0018AFBC, "Kururin ")
+Text($0018AFC8, "Kuru Kuru")
+//TextShiftJIS($0018AFD4, "")
+//TextShiftJIS($0018AFE4, "")
+Text($0018AFF0, "Kuru Kuru Kururin")
+//TextShiftJIS($0018B004, "")
