@@ -40,7 +40,7 @@ c-3:うさぎ    ［Adjust rotation with the Control;Stick and shoot fire with the A
 c-3:うさぎ    ［Once on the rails you cannot stop,;so be careful!］
 c_3-2:うさぎ  ［Change the rotation to;avoid obstacles!］
 c-4:クルリン１［My feathers are freezing. I wonder;where Maririn and the others are.］
-c-5:うさぎ    ［If you dash with the B Button,;the flame will longer!］
+c-5:うさぎ    ［If you dash with the B Button,;the flame will become longer!］
 c-6:クルリン１［This course looks confusing.］
 c-7:うさぎ    ［Someone is chasing you!;Quick, run away!］
 c-8:クルリン１［What's going on?;It's getting even colder.］
